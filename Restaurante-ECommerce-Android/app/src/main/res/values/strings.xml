@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">EFooD-ECommerceApp</string>
+    <string name="label_usuario">Correo Electrónico</string>
+    <string name="label_password">Contraseña</string>
+    <string name="label_start_session">Iniciar Sesión</string>
+    <string name="label_nuevoUser"><u>Nuevo Usuario ? Registrarme Ahora</u></string>
+    <string name="label_olvide_password">Olvide mi contraseña ?</string>
+    <string name="label_bienvenida">Hola ! - Identifíquese para iniciar sesión</string>
+    <string name="title_activity_inicio">InicioActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">hc</string>
+    <string name="nav_header_subtitle">hc@live.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Cerrar Sesión</string>
+    <string name="descripcion_platillo">Esta rica ensalada norteña viene acompañada con su rica
+        lechuga, tomates, cebollas, choclos fresca, además incluye su buen refrescos para acompañar este exquisito
+        platillo preparado por nuestros grandes chef norteños del Perú.</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Mis Compras</string>
+    <string name="menu_slideshow">Configuración</string>
+    <string name="add_shop">Añadir al Carrito</string>
+    <string name="comprar_p">Comprar</string>
+    <string-array name="tipoDoc">
+        <item>DNI</item>
+        <item>RUC</item>
+        <item>CARNET EXT.</item>
+        <item>PASAPORTE</item>
+    </string-array>
+    <string-array name="departamentos">
+        <item>AMAZONAS</item>
+        <item>ANCASH</item>
+        <item>APURIMAC</item>
+        <item>AREQUIPA</item>
+        <item>AYACUCHO</item>
+        <item>CAJAMARCA</item>
+        <item>CUSCO</item>
+        <item>HUANCAVELICA</item>
+        <item>HUANUCO</item>
+        <item>ICA</item>
+        <item>JUNIN</item>
+        <item>LA LIBERTAD</item>
+        <item>LAMBAYEQUE</item>
+        <item>LIMA</item>
+        <item>LORETO</item>
+        <item>MADRE DE DIOS</item>
+        <item>MOQUEGUA</item>
+        <item>PASCO</item>
+        <item>PIURA</item>
+        <item>PUNO</item>
+        <item>SAN MARTIN</item>
+        <item>TACNA</item>
+        <item>TUMBES</item>
+        <item>UCAYALI</item>
+    </string-array>
+    <string-array name="provincias">
+        <item>CANGALLO</item>
+        <item>HUAMANGA</item>
+        <item>HUANCA SANCOS</item>
+        <item>HUANTA</item>
+        <item>LA MAR</item>
+        <item>LUCANAS</item>
+        <item>PARINACOCHAS</item>
+        <item>PAUCAR DEL SARA SARA</item>
+        <item>SUCRE</item>
+        <item>VICTOR FAJARDO</item>
+        <item>VILCAS HUAMAN</item>
+    </string-array>
+    <string-array name="distritos">
+        <item>ACOCRO</item>
+        <item>ACOS VINCHOS</item>
+        <item>ANDRES AVELINO CACERES DOREGARAY</item>
+        <item>AYACUCHO</item>
+        <item>CARMEN ALTO</item>
+        <item>CHIARA</item>
+        <item>JESUS NAZARENO</item>
+        <item>OCROS</item>
+        <item>PACAYCASA</item>
+        <item>QUINUA</item>
+        <item>SAN JOSE DE TICLIAS</item>
+        <item>SAN JUAN BAUTISTA</item>
+        <item>SANTIAGO DE PISCHA</item>
+        <item>SOCOS</item>
+        <item>TAMBILLO</item>
+        <item>VINCHOZ</item>
+    </string-array>
+
+</resources>
